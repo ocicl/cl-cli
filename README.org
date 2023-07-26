@@ -1,0 +1,10 @@
+* cl-cli
+
+first attempt for a common lisp argument parser
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/renard/cl-cli.git   |
+| commit  | {"messa  |
+| systems | cl-cli |
+|---------+-------------------------------------------|
+
